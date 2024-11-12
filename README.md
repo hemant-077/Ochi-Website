@@ -1,10 +1,6 @@
 # Ochi Landing Page Clone
 <br>
 <br>
-The website live at : 
-<br>
-https://friendly-rabanadas-a7fcc1.netlify.app/
-<br>
 <br>
 This project is a clone of the landing page for the brand Ochi. It's built using React.js and leverages various libraries such as Framer Motion, GSAP, and Locomotive Scroll for animations and smooth scrolling effects. Tailwind CSS is used for styling, providing a flexible and responsive design.
 <br>
